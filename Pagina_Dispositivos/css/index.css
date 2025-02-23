@@ -1,0 +1,109 @@
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+ul a:hover {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+/* Estilo específico para la sección de Smartphones */
+#Smartphones {
+    background-color: rgb(178, 191, 196); /* Cambia este color al que prefieras */
+    padding: 20px;
+    border-radius: 10px; /* Opcional: para bordes redondeados */
+}
+
+#Tablets {
+    background-color: rgb(164, 220, 241); /* Cambia este color al que prefieras */
+    padding: 20px;
+    border-radius: 10px; /* Opcional: para bordes redondeados */
+}
+
+#Laptops {
+    background-color: rgb(178, 191, 196); /* Cambia este color al que prefieras */
+    padding: 20px;
+    border-radius: 10px; /* Opcional: para bordes redondeados */
+}
+
+#PC {
+    background-color:  rgb(164, 220, 241); /* Cambia este color al que prefieras */
+    padding: 20px;
+    border-radius: 10px; /* Opcional: para bordes redondeados */
+}
+
+#Smartwatches {
+    background-color: rgb(178, 191, 196); /* Cambia este color al que prefieras */
+    padding: 20px;
+    border-radius: 10px; /* Opcional: para bordes redondeados */
+}
+
+#Consolas {
+    background-color:  rgb(164, 220, 241); /* Cambia este color al que prefieras */
+    padding: 20px;
+    border-radius: 10px; /* Opcional: para bordes redondeados */
+}
+
+#Televisores {
+    background-color: rgb(178, 191, 196); /* Cambia este color al que prefieras */
+    padding: 20px;
+    border-radius: 10px; /* Opcional: para bordes redondeados */
+}
+
+#Auriculares {
+    background-color:  rgb(164, 220, 241); /* Cambia este color al que prefieras */
+    padding: 20px;
+    border-radius: 10px; /* Opcional: para bordes redondeados */
+}
+
+#Cámaras {
+    background-color: rgb(178, 191, 196); /* Cambia este color al que prefieras */
+    padding: 20px;
+    border-radius: 10px; /* Opcional: para bordes redondeados */
+}
+
+.media-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.media-container img, 
+.media-container video {
+    width: 45%; /* Ajusta el ancho para que todos ocupen el mismo espacio */
+    height: 300px;
+    object-fit: cover; /* Evita deformaciones */
+    border-radius: 10px;
+}
+
+.creator-container {
+    display: flex;
+    align-items: center; /* Alinear imagen y texto */
+    justify-content: center; /* Centrar horizontalmente */
+    gap: 10px; /* Espacio entre imagen y texto */
+}
+
+.creator-photo {
+    width: 40px; /* Tamaño pequeño */
+    height: 40px;
+    border-radius: 50%; /* Imagen circular */
+    object-fit: cover; /* Ajuste sin deformar */
+    border: 2px solid white; /* Borde para destacar */
+}
+
+.creator-name {
+    font-size: 14px;
+}
+
