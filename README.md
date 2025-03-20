@@ -5,11 +5,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garhes&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Garhes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -29,7 +30,7 @@
 
 <br clear="both">
 
-<img align="right" height="155" src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif"  />
 
 ###
 
